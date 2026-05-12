@@ -1,0 +1,251 @@
+{
+  "MAI": {
+    "luna": 5,
+    "an": 2026,
+    "preferences": {
+      "Alex Lehadus": {
+        "Liber": [
+          1,
+          2,
+          3
+        ],
+        "T1": [],
+        "T2": [],
+        "T3": [],
+        "PZU": [],
+        "No_T1": [],
+        "No_T2": [],
+        "No_T3": [],
+        "No_PZU": [],
+        "Allowed_Shifts": [
+          "T1",
+          "T2",
+          "T3",
+          "PZU"
+        ],
+        "Is_Titular": true
+      },
+      "Sever Ali": {
+        "Liber": [],
+        "T1": [],
+        "T2": [],
+        "T3": [],
+        "PZU": [],
+        "No_T1": [],
+        "No_T2": [],
+        "No_T3": [],
+        "No_PZU": [],
+        "Allowed_Shifts": [
+          "T1",
+          "T2",
+          "T3",
+          "PZU"
+        ],
+        "Is_Titular": true
+      },
+      "Calin Brojba": {
+        "Liber": [],
+        "T1": [],
+        "T2": [
+          7
+        ],
+        "T3": [
+          17,
+          25
+        ],
+        "PZU": [],
+        "No_T1": [],
+        "No_T2": [],
+        "No_T3": [],
+        "No_PZU": [],
+        "Allowed_Shifts": [
+          "T1",
+          "T2",
+          "T3",
+          "PZU"
+        ],
+        "Is_Titular": true
+      },
+      "Elvir Bolat": {
+        "Liber": [],
+        "T1": [],
+        "T2": [],
+        "T3": [],
+        "PZU": [],
+        "No_T1": [],
+        "No_T2": [],
+        "No_T3": [],
+        "No_PZU": [],
+        "Allowed_Shifts": [
+          "T1",
+          "T2",
+          "T3",
+          "PZU"
+        ],
+        "Is_Titular": true
+      },
+      "Bogdan Pascale": {
+        "Liber": [],
+        "T1": [],
+        "T2": [
+          2
+        ],
+        "T3": [],
+        "PZU": [
+          24
+        ],
+        "No_T1": [
+          14
+        ],
+        "No_T2": [
+          1
+        ],
+        "No_T3": [
+          1,
+          13
+        ],
+        "No_PZU": [],
+        "Allowed_Shifts": [
+          "T1",
+          "T2",
+          "T3",
+          "PZU"
+        ],
+        "Is_Titular": true
+      },
+      "Andrei Badescu": {
+        "Liber": [
+          2,
+          3,
+          30
+        ],
+        "T1": [],
+        "T2": [],
+        "T3": [],
+        "PZU": [],
+        "No_T1": [],
+        "No_T2": [],
+        "No_T3": [],
+        "No_PZU": [],
+        "Allowed_Shifts": [
+          "T1",
+          "T2",
+          "T3",
+          "PZU"
+        ],
+        "Is_Titular": true
+      },
+      "Georgian Butoiu": {
+        "Liber": [],
+        "T1": [],
+        "T2": [
+          26
+        ],
+        "T3": [],
+        "PZU": [],
+        "No_T1": [],
+        "No_T2": [],
+        "No_T3": [],
+        "No_PZU": [],
+        "Allowed_Shifts": [
+          "T1",
+          "T2",
+          "T3",
+          "PZU"
+        ],
+        "Is_Titular": true
+      },
+      "Cosmin Mocanu": {
+        "Liber": [],
+        "T1": [],
+        "T2": [],
+        "T3": [],
+        "PZU": [],
+        "No_T1": [
+          11
+        ],
+        "No_T2": [],
+        "No_T3": [
+          8
+        ],
+        "No_PZU": [],
+        "Allowed_Shifts": [
+          "T1",
+          "T2",
+          "T3",
+          "PZU"
+        ],
+        "Is_Titular": true
+      },
+      "Oana Furtuna": {
+        "Liber": [],
+        "T1": [],
+        "T2": [],
+        "T3": [],
+        "PZU": [],
+        "No_T1": [],
+        "No_T2": [
+          5
+        ],
+        "No_T3": [
+          5
+        ],
+        "No_PZU": [],
+        "Allowed_Shifts": [
+          "T1",
+          "T2",
+          "T3",
+          "PZU"
+        ],
+        "Is_Titular": true
+      }
+    },
+    "weekends": {
+      "0": [
+        "Sever Ali",
+        "Bogdan Pascale",
+        "Oana Furtuna"
+      ],
+      "1": [
+        "Alex Lehadus",
+        "Elvir Bolat",
+        "Calin Brojba"
+      ],
+      "2": [
+        "Cosmin Mocanu",
+        "Andrei Badescu",
+        "Georgian Butoiu"
+      ],
+      "3": [
+        "Sever Ali",
+        "Bogdan Pascale",
+        "Oana Furtuna"
+      ],
+      "4": [
+        "Alex Lehadus",
+        "Elvir Bolat",
+        "Calin Brojba"
+      ]
+    },
+    "holidays": {
+      "selected_days": [
+        27,
+        28
+      ],
+      "assignments": {
+        "27": [
+          "Alex Lehadus",
+          "Calin Brojba",
+          "Elvir Bolat",
+          "Bogdan Pascale"
+        ],
+        "28": [
+          "Georgian Butoiu",
+          "Cosmin Mocanu",
+          "Oana Furtuna",
+          "Andrei Badescu"
+        ]
+      }
+    }
+  }
+}
